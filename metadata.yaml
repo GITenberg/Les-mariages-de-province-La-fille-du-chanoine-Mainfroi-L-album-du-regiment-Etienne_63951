@@ -1,5 +1,8 @@
 _repo: Les-mariages-de-province-La-fille-du-chanoine-Mainfroi-L-album-du-regiment-Etienne_63951
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63951-h/images/cover.jpg
 creator:
   author:
     agent_name: About, Edmond
@@ -18,6 +21,8 @@ creator:
     - https://en.wikipedia.org/wiki/Edmond_François_Valentin_About
     - https://fr.wikipedia.org/wiki/Edmond_About
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63951#Les-mariages-de-province-La-fille-du-chanoine-Mainfroi-L-album-du-regiment-Etienne
 gutenberg_issued: '2020-12-03'
 gutenberg_type: Text
 identifiers:
